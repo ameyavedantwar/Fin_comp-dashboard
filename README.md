@@ -46,20 +46,6 @@ To visually summarize and interpret financial complaints data to support:
 ---
 
 
-# 📊 Financial Complaints Dashboard
-
-## 📌 Objective
-
-## 🗂️ Dashboard Overview
-
-## 📊 Breakdown by Dimensions
-
-## 🧰 Tools Used
-
-## 📁 Repository Structure
-
-## 📈 Outcome   ← Add this here
-
 This dashboard provides a single-screen summary for financial services teams, regulators, or customer support operations to:
 - Monitor top complaint categories
 - Prioritize states with higher issues
