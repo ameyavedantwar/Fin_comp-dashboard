@@ -46,4 +46,37 @@ To visually summarize and interpret financial complaints data to support:
 ---
 
 ## 📁 Repository Structure
+Fin_comp-dashboard/
+│
+├── Dashboard.png # Screenshot of the Tableau dashboard
+├── README.md # Documentation for the project
+├── financial_complaints.csv # (Add this if you include source data or sample data)
+└── tableau-workbook.twb # (Optional: Add if sharing Tableau workbook)
+
+# 📊 Financial Complaints Dashboard
+
+## 📌 Objective
+
+## 🗂️ Dashboard Overview
+
+## 📊 Breakdown by Dimensions
+
+## 🧰 Tools Used
+
+## 📁 Repository Structure
+
+## 📈 Outcome   ← Add this here
+
+This dashboard provides a single-screen summary for financial services teams, regulators, or customer support operations to:
+- Monitor top complaint categories
+- Prioritize states with higher issues
+- Identify products with dispute concerns
+- Optimize channel strategies for resolution
+
+## 📬 Author   ← Add this right after outcome
+
+**Ameya Vedantwar**  
+- [LinkedIn](https://www.linkedin.com/in/ameya-vedantwar-473b70139)  
+- [GitHub Portfolio](https://github.com/ameyavedantwar)
+
 
