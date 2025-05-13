@@ -45,13 +45,6 @@ To visually summarize and interpret financial complaints data to support:
 
 ---
 
-## 📁 Repository Structure
-Fin_comp-dashboard/
-│
-├── Dashboard.png # Screenshot of the Tableau dashboard
-├── README.md # Documentation for the project
-├── financial_complaints.csv # (Add this if you include source data or sample data)
-└── tableau-workbook.twb # (Optional: Add if sharing Tableau workbook)
 
 # 📊 Financial Complaints Dashboard
 
